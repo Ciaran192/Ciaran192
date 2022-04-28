@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ciarán, a data and software guy from Ireland.
+- 👀 I’m interested in learning some more about the front end and data visualisation. 
+- 🌱 I’m currently learning more about React and Python.
+- 📫 My email is ciaran192@gmail.com
