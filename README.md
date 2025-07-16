@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Ciarán, a data and software guy from Ireland.
-- 📫 My email is ciaran192@gmail.com
